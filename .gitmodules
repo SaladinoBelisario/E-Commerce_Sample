@@ -1,0 +1,7 @@
+[submodule "Backend"]
+	path = backend
+	url = git@github.com:SaladinoBelisario/Backend-ECommerce-Sample.git
+
+[submodule "Frontend"]
+    path = frontend
+    url = git@github.com:SaladinoBelisario/Frontend-ECommerce-Sample.git
